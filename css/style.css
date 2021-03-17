@@ -1660,6 +1660,10 @@ font-weight: 500;
 #myCarousel a.carousel-control-next {display: none;}
 .carousel-indicators .active {background-color:#4bc714;}
 
+.banner-main .carousel-item {
+     max-height: 600px;
+}
+
 .banner-main .carousel-caption span {
      font-size: 50px;
      font-weight: bold;
@@ -1670,6 +1674,11 @@ font-weight: 500;
      display: block;
 }
 
+.banner-main .carousel-caption {
+     border-radius: 20px;
+     background-color: rgb(20,20,20,0.5);
+     padding: 20px;
+}
 .banner-main .carousel-caption h1 {
      color: #fff;
      font-size: 110px;
