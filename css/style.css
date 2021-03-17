@@ -2154,8 +2154,8 @@ margin-top: 4px;
  ul.Links_footer li a {
     display: block;
      color: #fff;
-     font-size: 17px;
-     padding-left: 16px;
+     font-size: 18px;
+     padding-left: 40px;
      margin-top: -34px;
 }
  ul.Links_footer li a:hover{
@@ -2166,6 +2166,10 @@ margin-top: 4px;
     color: #3e7f21;
 }
  
+ul.Links_footer li .fa {
+    font-size: 18px;
+    color: #fff;
+}
  
 
  .hhh {
