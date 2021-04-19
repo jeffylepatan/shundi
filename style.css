@@ -3,6 +3,10 @@ body{
 
 }
 
+.h3 {
+	color: #008000;
+}
+
 .social-menu ul {
 	position: absolute;
 	top: 50%;
@@ -23,5 +27,5 @@ body{
 	line-height: 60px;
 	transition:  .6s;
 	color: #000;
-	
+
 }
