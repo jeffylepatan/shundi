@@ -13,3 +13,7 @@ body{
 	display: flex;
 }
 
+.socail-menu ul il {
+	list-style: none;
+	margin: 0 15px;
+}
